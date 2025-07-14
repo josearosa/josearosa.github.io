@@ -23,13 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Jose A. Rosa"
+  pronouns         : 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of California, Merced"
+  uri              : 
+  email            : "jrosa3[at]ucmerced.edu" 
 
   # Academic websites
   academia         : # URL
@@ -80,7 +79,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 
   manuscripts:
     title: 'Journal Articles'    
   conferences:

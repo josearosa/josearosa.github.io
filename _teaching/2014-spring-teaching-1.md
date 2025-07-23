@@ -11,11 +11,11 @@ author_profile: true
 
 **Labor Economics**  
 *Fall 2025 (Scheduled)*  
-> Introductory upper-division course on labor market dynamics, wage setting, and human capital theory.
+> Upper-division course on labor market dynamics, wage setting, and human capital theory.
 
 **Intermediate Microeconomic Theory**  
 *Summer 2024 (Online)*  
-> Designed and delivered a full asynchronous course with real-world applications and interactive problem sets.
+> Designed and delivered a full synchronous course with real-world applications and interactive problem sets.
 
 ---
 
@@ -44,7 +44,7 @@ author_profile: true
 
 **Responsibilities:**  
 - Led weekly discussion sections (in-person and via Zoom)  
-- Held regular office hours  
+- Held regular office hours in addition to additional hours by appointment
 - Graded exams, assignments, and research papers  
 - Managed announcements and content via Canvas LMS  
 - Proctored exams and hosted review sessions  
@@ -54,14 +54,26 @@ author_profile: true
 
 ## Student Feedback Highlights
 
-> *“Professor Rosa was always prepared and explained the concepts clearly. I appreciated how he made difficult material more approachable.”*  
-> — *Intermediate Microeconomic Theory, Summer 2024*
+> *“Jose is well respected amongst the students, that is because he earned it through his passion in helping the students with their academic needs. He is able to efficiently summarize down the difficult materials throughout the course and provide the students with helpful tips when solving problems. He has a good working ethics, which he always tries to be flexible with the student's available time and prioritize the feedback from the students and make adjustments on himself. I truly believe he can be an impactful instructor on the campus if he ever becomes a professor.”*  
+> — *Econometrics, Spring 2025*
 
-> *“Very helpful TA. He always answered questions patiently and made complicated formulas easier to understand.”*  
+> *“Jose was a great instructor and tried very hard to keep the class interactive which I understand can be difficult in a remote class. He asked many questions to keep us engaged and I enjoyed participating.”*
+> - *Intermediate Microeconomics, Summer 2024 
+
+
+
+> *“The TA was very helpful. Would always go over anything if you needed him too. When it came for homework assignments always made
+extra office hours so anyone who needed extra help they had it. Was very nice and always respected everyone, he was easy to get along
+with. I recommend having him as a TA. He always did above then what he had to do. When we would all study for the midterm he would
+hold extra office hours for that too. He would always accommodate everyones busy schedules.”*  
 > — *Econometrics, Fall 2023*
 
-> *“His Zoom lectures were interactive and easy to follow. Loved the review sessions before the midterm!”*  
-> — *Econometrics, Spring 2022*
+> *“Jose is GREAT! He's a really good TA and his discussions are super helpful in understanding and digesting the material because
+sometimes the lecture can be very info-heavy and hard to understand. He tries to help us and his discussions are always very detailed and
+well prepared to help us with important topics in class.
+His pre-midterm and final lectures were super helpful in preparing us for answering short answer questions and goes above and beyond to
+help us, which I really appreciate.”*  
+> — *Econometrics, Spring 2024*
 
 > *“I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”*  
 > — *Marketing and Consumer Behavior, Fall 2020*

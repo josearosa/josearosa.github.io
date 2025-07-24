@@ -32,7 +32,7 @@ We study how proximity to violent crime affects political participation using ge
 ---
 
 ### **Heterogeneous Effects of Sibling Composition on Family Formation**  
-<small>*with Raymond Kim*</small>  
+<small>*with Raymond Kim and [Eujean Byun](https://www.eujeanbyun.com/)*</small>  
 This paper explores how the gender and birth order of siblings affect later marriage and fertility outcomes.  
 <details>
 <summary><strong>Abstract</strong></summary>

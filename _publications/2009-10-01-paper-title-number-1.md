@@ -11,9 +11,13 @@ author_profile: true
 
 ### **Sibling Spillovers and Special Education Access**  
 <small>*with [Briana Ballis](https://brianaballis.weebly.com/) and [Emily Dieckmann](https://economics.ucmerced.edu/content/emily-dieckmann)*</small>  
-<div style="background-color:#f5f5f5; padding:10px; border-radius:5px; margin-bottom:10px;">
-This paper investigates how access to special education for one child affects academic outcomes of their siblings.
+<div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
+
+<strong>Key Finding:</strong><br>
+We find surprising evidence that the removal of special education services improves siblings’ academic outcomes, suggesting a reallocation of parental attention and resources within the household.
+
 </div>
+
 <details>
 <summary><strong>Abstract</strong></summary>
 We examine whether expanding access to special education services for one child generates positive or negative spillovers on their siblings' academic outcomes. Leveraging administrative data from Texas and variation in district-level identification patterns, we identify both direct behavioral peer effects and parental reallocation of attention across siblings. Preliminary findings suggest significant academic spillovers, particularly in households with limited resources.

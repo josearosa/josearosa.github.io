@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="{{ base_path }}/assets/Jose_Rosa_CV.pdf#toolbar=1"
+<iframe src="{{ base_path }}/assets/CV_Jose_Rosa_2025.pdf#toolbar=1"
         width="100%"
         height="900px"
         style="border: none;">

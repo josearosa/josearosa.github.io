@@ -14,7 +14,7 @@ author_profile: true
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
 <strong>Key Finding:</strong><br>
-We find surprising evidence that the removal of special education services improves siblings’ academic outcomes, suggesting a reallocation of parental attention and resources within the household.
+We find evidence that the removal of special education services improves siblings’ academic outcomes, suggesting a reallocation of parental attention and resources within the household.
 
 </div>
 

@@ -10,7 +10,7 @@ author_profile: true
 ## Working Papers
 
 ### **Sibling Spillovers and Special Education Access**  
-<small>*with Briana Ballis and Emily Dieckmann*</small>  
+<small>*with [Briana Ballis](https://brianaballis.weebly.com/) and [Emily Dieckmann](https://economics.ucmerced.edu/content/emily-dieckmann)*</small>  
 <div style="background-color:#f5f5f5; padding:10px; border-radius:5px; margin-bottom:10px;">
 This paper investigates how access to special education for one child affects academic outcomes of their siblings.
 </div>
@@ -22,7 +22,7 @@ We examine whether expanding access to special education services for one child 
 ---
 
 ### **Bullets to Ballots**  
-<small>*with Zhangping Cai*</small>  
+<small>*with [Zhangping Cai](https://economics.ucmerced.edu/content/zhangping-cai)*</small>  
 This project studies the effect of exposure to violent crime on voter turnout and political engagement in Texas.  
 <details>
 <summary><strong>Abstract</strong></summary>

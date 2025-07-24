@@ -1,14 +1,53 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+{% include base_path %}
+
+## Working Papers
+
+### **Sibling Spillovers and Special Education Access**  
+<small>*with Briana Ballis and Emily Dieckmann*</small>  
+This paper investigates how access to special education for one child affects academic outcomes of their siblings.  
+<details>
+<summary><strong>Abstract</strong></summary>
+We examine whether expanding access to special education services for one child generates positive or negative spillovers on their siblings' academic outcomes. Leveraging administrative data from Texas and variation in district-level identification patterns, we identify both direct behavioral peer effects and parental reallocation of attention across siblings. Preliminary findings suggest significant academic spillovers, particularly in households with limited resources.
+</details>
+
+---
+
+### **Bullets to Ballots**  
+<small>*with Zhangping Cai*</small>  
+This project studies the effect of exposure to violent crime on voter turnout and political engagement in Texas.  
+<details>
+<summary><strong>Abstract</strong></summary>
+We study how proximity to violent crime affects political participation using geocoded crime incident data and voter files from Texas. Our identification strategy compares voters exposed to homicides nearby to those slightly farther away, using a spatial regression discontinuity design. We find that exposure to violent crime reduces turnout in subsequent elections, with stronger effects among young and minority voters.
+</details>
+
+---
+
+### **Heterogeneous Effects of Sibling Composition on Family Formation**  
+<small>*with Raymond Kim*</small>  
+This paper explores how the gender and birth order of siblings affect later marriage and fertility outcomes.  
+<details>
+<summary><strong>Abstract</strong></summary>
+Using U.S. census-linked administrative records, we examine how sibling composition — particularly the presence of same-sex or opposite-sex siblings — influences family formation. We document heterogeneous effects by gender and socio-economic status, with stronger effects on women’s timing of marriage and likelihood of having children. Results suggest sibling dynamics shape both family values and long-term demographic behavior.  
+</details>
+
+---
+
+## Work in Progress
+
+### **Peer and Role Model Effects in Academic Competitions**  
+A project exploring whether exposure to high-achieving peers in competitive academic settings alters students’ future aspirations and performance.
+
+---
+
+### **Family Formation and Crime**  
+<small>*with Zhangping Cai*</small>  
+We study how early-life exposure to crime affects long-term family structure and fertility decisions.
+
+---

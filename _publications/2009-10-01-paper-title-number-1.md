@@ -41,7 +41,7 @@ Voter turnout rises after nearby murders but declines following robberies, revea
 </div>
 <details>
 <summary><strong>Abstract</strong></summary>
-This paper investigates the causal impact of exposure to violent crime on voter turnout using geocoded crime and voter registration data from Houston, Texas. Leveraging an event-study difference-in-differences design, we compare individuals exposed to crimes just before the 2016 election to those exposed shortly after, isolating plausibly exogenous variation in proximity and timing. We find heterogeneous effects: exposure to extreme violence, such as murder, increases turnout, particularly among non-partisan voters, while crimes like robbery may suppress participation. The findings suggest that recent encounters with violence can mobilize or demobilize political behavior, depending on crime type and individual affiliation.
+This paper investigates the impact of exposure to violent crime on voter turnout using geocoded crime and voter registration data from Houston, Texas. Leveraging an event-study difference-in-differences design, we compare individuals exposed to crimes just before the 2016 election to those exposed shortly after, isolating plausibly exogenous variation in proximity and timing. We find heterogeneous effects: exposure to extreme violence, such as murder, increases turnout, particularly among non-partisan voters, while crimes like robbery may suppress participation. The findings suggest that recent encounters with violence can mobilize or demobilize political behavior, depending on crime type and individual affiliation.
 </details>
 
 ---
@@ -74,6 +74,6 @@ background and socioeconomic context when studying family formation patterns.
 ---
 
 ### **Family Formation and Crime**  
-<small>*with Zhangping Cai*</small>  
+<small>*with [Zhangping Cai](https://economics.ucmerced.edu/content/zhangping-cai)*</small>  
 
 ---

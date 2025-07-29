@@ -82,6 +82,7 @@ help us, which I really appreciate.”*
 - *(Instructor of Record) Intermediate Microeconomic Theory (Online Summer 2024):* 4.36/5
 - *All-time average*: 4.49/5
 - *All-time average (Onlline courses only)*:4.55/5
+
 ---
 
 ## Teaching Philosophy

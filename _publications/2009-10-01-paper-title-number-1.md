@@ -13,7 +13,6 @@ author_profile: true
 <small>*with [Briana Ballis](https://brianaballis.weebly.com/) and [Emily Dieckmann](https://economics.ucmerced.edu/content/emily-dieckmann)*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
-<strong>Key Finding:</strong><br>
 Reduced special education access for one child reveals overlooked sibling benefits, exposing hidden family spillovers from targeted education policies.
 
 </div>
@@ -38,7 +37,6 @@ evaluating targeted programs, which often focus only on direct impacts.
 <small>*with [Zhangping Cai](https://economics.ucmerced.edu/content/zhangping-cai)*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
-<strong>Key Finding:</strong><br>
 Voter turnout rises after nearby murders but declines following robberies, revealing distinct political reactions to different forms of violent crime. 
 </div>
 <details>
@@ -48,11 +46,10 @@ This paper investigates the causal impact of exposure to violent crime on voter 
 
 ---
 
-### **Heterogeneous Effects of Sibling Composition on Family Formation (Submitted) **  
+### **Heterogeneous Effects of Sibling Composition on Family Formation (Submitted)**  
 <small>*with Raymond Kim and [Eujean Byun](https://www.eujeanbyun.com/)*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
-<strong>Key Finding:</strong><br>
 Same-sex sibling effects significantly increase marriage rates and timing for men in the U.S, with strong heterogeniety across race and sex.  
 </div>
 <details>

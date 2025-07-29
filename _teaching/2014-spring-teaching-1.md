@@ -15,7 +15,7 @@ author_profile: true
 
 **Intermediate Microeconomic Theory**  
 *Summer 2024 (Online)*  
-> Designed and delivered a full synchronous course with real-world applications and interactive problem sets.
+> Designed and delivered a full synchronous course with real-world examples and interactive problem sets.
 
 ---
 
@@ -81,10 +81,10 @@ help us, which I really appreciate.”*
 - *Introduction to Economics (Fall 2024):* 4.43/5 
 - *(Instructor of Record) Intermediate Microeconomic Theory (Online Summer 2024):* 4.36/5
 - *All-time average*: 4.49/5
-- *All-time average (Onlline courses only)*:4.55/5
-
+- *All-time average (Online courses only)* :4.55/5
+>
 ---
 
 ## Teaching Philosophy
 
-I strive to create an inclusive and intellectually rigorous classroom environment that centers applied problem-solving, critical thinking, and peer collaboration. As a first-generation college student, I am especially committed to fostering equity in learning by demystifying complex topics, using real-world datasets, and supporting students through clear communication and high standards.
+I strive to create an  intellectually rigorous classroom environment that centers applied problem-solving, critical thinking, and peer collaboration. As a first-generation college student, I am especially committed to fostering equity in learning by demystifying complex topics, using real-world datasets, and supporting students through clear communication and high standards.

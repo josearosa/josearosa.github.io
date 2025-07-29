@@ -23,11 +23,9 @@ author_profile: true
 
 **Economics of Immigration**  
 *Fall 2024*  
-> Led class sessions on the economic impact of immigration and public finance implications.
 
 **Econometrics**  
 *Spring 2024*  
-> Delivered guest lectures on fixed effects, treatment heterogeneity, and policy evaluation.
 
 ---
 
@@ -78,11 +76,12 @@ help us, which I really appreciate.”*
 > *“I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”*  
 > — *Marketing and Consumer Behavior, Fall 2020*
 
-**Average Evaluation Scores (Selected Courses)**  
-- *Intermediate Microeconomic Theory (Summer 2024):* 4.7 / 5  
-- *Econometrics (Fall 2023):* 4.6 / 5  
-- *Marketing and Consumer Behavior (Fall 2020):* 4.8 / 5
-
+**Average Evaluation Scores (Recent Courses)**  
+- *Econometrics (Spring 2025):* 4.68/5
+- *Introduction to Economics (Fall 2024):* 4.43/5 
+- *(Instructor of Record) Intermediate Microeconomic Theory (Online Summer 2024):* 4.36/5
+- *All-time average*: 4.49/5
+- *All-time average (Onlline courses only)*:4.55/5
 ---
 
 ## Teaching Philosophy

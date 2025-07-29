@@ -22,10 +22,10 @@ author_profile: true
 ## Guest Lectures
 
 **Economics of Immigration**  
-*Fall 2024*  
+*Fall 2024*
 
 **Econometrics**  
-*Spring 2024*  
+*Spring 2024*
 
 ---
 
@@ -42,41 +42,40 @@ author_profile: true
 
 **Responsibilities:**  
 - Led weekly discussion sections (in-person and via Zoom)  
-- Held regular office hours in addition to additional hours by appointment
+- Held regular and by-appointment office hours  
 - Graded exams, assignments, and research papers  
-- Managed announcements and content via Canvas LMS  
-- Proctored exams and hosted review sessions  
+- Managed course content and announcements via Canvas LMS  
+- Proctored exams and led review sessions  
 - Provided one-on-one academic support
 
 ---
 
 ## Student Feedback Highlights
 
-> *“Jose is well respected amongst the students, that is because he earned it through his passion in helping the students with their academic needs. He is able to efficiently summarize down the difficult materials throughout the course and provide the students with helpful tips when solving problems. He has a good working ethics, which he always tries to be flexible with the student's available time and prioritize the feedback from the students and make adjustments on himself. I truly believe he can be an impactful instructor on the campus if he ever becomes a professor.”*  
-> — *Econometrics, Spring 2025
+> “Jose is well respected amongst the students — he earned that through his passion for helping us with our academic needs. He efficiently summarized difficult material and provided helpful problem-solving tips. He was flexible with scheduling, prioritized student feedback, and made adjustments based on it. I truly believe he would be an impactful instructor on campus if he ever becomes a professor.”  
+> — *Econometrics, Spring 2025*
 
-> *“Jose was a great instructor and tried very hard to keep the class interactive which I understand can be difficult in a remote class. He asked many questions to keep us engaged and I enjoyed participating.”*
-> - *Intermediate Microeconomics, Summer 2024 
+> “Jose was a great instructor and tried very hard to keep the class interactive, which I understand can be difficult in a remote class. He asked many questions to keep us engaged, and I enjoyed participating.”  
+> — *Intermediate Microeconomics, Summer 2024*
 
+> “The TA was very helpful. He always went over anything if you needed him to. For homework assignments, he held extra office hours so anyone who needed help could get it. He was always respectful, easy to talk to, and went above and beyond. Before midterms, he offered additional study sessions and accommodated everyone’s schedule.”  
+> — *Econometrics, Fall 2023*
 
-> *“The TA was very helpful. Would always go over anything if you needed him too. When it came for homework assignments always made
-extra office hours so anyone who needed extra help they had it. Was very nice and always respected everyone, he was easy to get along
-with. I recommend having him as a TA. He always did above then what he had to do. When we would all study for the midterm he would
-hold extra office hours for that too. He would always accommodate everyones busy schedules.”*  
-> — *Econometrics, Fall 2023
+> “I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”  
+> — *Marketing and Consumer Behavior, Fall 2020*
 
-> *“I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”*  
-> — *Marketing and Consumer Behavior, Fall 2020
+---
 
-**Average Evaluation Scores (Recent Courses)**  
-- *Econometrics (Spring 2025):* 4.68/5
-- *Introduction to Economics (Fall 2024):* 4.43/5 
-- *(Instructor of Record) Intermediate Microeconomic Theory (Online Summer 2024):* 4.36/5
-- *All-time average*: 4.49/5
-- *All-time average (Online courses only)* :4.55/5
->
+## Average Evaluation Scores (Recent Courses)
+
+- *Econometrics (Spring 2025):* 4.68 / 5  
+- *Introduction to Economics (Fall 2024):* 4.43 / 5  
+- *Intermediate Microeconomic Theory (Summer 2024, Online):* 4.36 / 5  
+- **All-time average:** 4.49 / 5  
+- **All-time average (Online courses only):** 4.55 / 5
+
 ---
 
 ## Teaching Philosophy
 
-I strive to create an  intellectually rigorous classroom environment that centers applied problem-solving, critical thinking, and peer collaboration. As a first-generation college student, I am especially committed to fostering equity in learning by demystifying complex topics, using real-world datasets, and supporting students through clear communication and high standards.
+I strive to create an intellectually rigorous classroom environment that centers applied problem-solving, critical thinking, and peer collaboration. As a first-generation college student, I am especially committed to fostering equity in learning by demystifying complex topics, using real-world datasets, and supporting students through clear communication and high standards.

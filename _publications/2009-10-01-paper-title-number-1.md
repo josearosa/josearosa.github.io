@@ -14,33 +14,57 @@ author_profile: true
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
 <strong>Key Finding:</strong><br>
-We find evidence that the removal of special education services improves siblings’ academic outcomes, suggesting a reallocation of parental attention and resources within the household.
+Reduced special education access for one child reveals overlooked sibling benefits, exposing hidden family spillovers from targeted education policies.
 
 </div>
 
 <details>
 <summary><strong>Abstract</strong></summary>
-We examine whether expanding access to special education services for one child generates positive or negative spillovers on their siblings' academic outcomes. Leveraging administrative data from Texas and variation in district-level identification patterns, we identify both direct behavioral peer effects and parental reallocation of attention across siblings. Preliminary findings suggest significant academic spillovers, particularly in households with limited resources.
+Over 13% of U.S. children receive special education (SpEd) services, which often involve substantial
+changes in educational investments for the identified child. However, little is known about how
+these services affect other children in the household. We study sibling spillovers using a 2005 Texas
+policy that capped district-level SpEd enrollment at 8.5%, resulting in abrupt declines in access.
+Leveraging linked birth and education records, we examine how reduced SpEd access for one child
+affects their siblings. We find that having a sibling more likely to lose SpEd leads to improvements
+in the non-disabled sibling’s long-run outcomes. These spillovers are unlikely to stem from direct
+sibling interactions and instead appear to reflect changes in parental investments. The magnitudes
+of these effects are substantial and highlight the importance of accounting for family spillovers in
+evaluating targeted programs, which often focus only on direct impacts.
 </details>
 
 ---
 
 ### **Bullets to Ballots**  
 <small>*with [Zhangping Cai](https://economics.ucmerced.edu/content/zhangping-cai)*</small>  
-This project studies the effect of exposure to violent crime on voter turnout and political engagement in Texas.  
+<div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
+
+<strong>Key Finding:</strong><br>
+Voter turnout rises after nearby murders but declines following robberies, revealing distinct political reactions to different forms of violent crime. 
+</div>
 <details>
 <summary><strong>Abstract</strong></summary>
-We study how proximity to violent crime affects political participation using geocoded crime incident data and voter files from Texas. Our identification strategy compares voters exposed to homicides nearby to those slightly farther away, using a spatial regression discontinuity design. We find that exposure to violent crime reduces turnout in subsequent elections, with stronger effects among young and minority voters.
+This paper investigates the causal impact of exposure to violent crime on voter turnout using geocoded crime and voter registration data from Houston, Texas. Leveraging an event-study difference-in-differences design, we compare individuals exposed to crimes just before the 2016 election to those exposed shortly after, isolating plausibly exogenous variation in proximity and timing. We find heterogeneous effects: exposure to extreme violence, such as murder, increases turnout, particularly among non-partisan voters, while crimes like robbery may suppress participation. The findings suggest that recent encounters with violence can mobilize or demobilize political behavior, depending on crime type and individual affiliation.
 </details>
 
 ---
 
-### **Heterogeneous Effects of Sibling Composition on Family Formation**  
+### **Heterogeneous Effects of Sibling Composition on Family Formation (Submitted) **  
 <small>*with Raymond Kim and [Eujean Byun](https://www.eujeanbyun.com/)*</small>  
-This paper explores how the gender and birth order of siblings affect later marriage and fertility outcomes.  
+<div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
+
+<strong>Key Finding:</strong><br>
+Same-sex sibling effects significantly increase marriage rates and timing for men in the U.S, with strong heterogeniety across race and sex.  
+</div>
 <details>
 <summary><strong>Abstract</strong></summary>
-Using U.S. census-linked administrative records, we examine how sibling composition — particularly the presence of same-sex or opposite-sex siblings — influences family formation. We document heterogeneous effects by gender and socio-economic status, with stronger effects on women’s timing of marriage and likelihood of having children. Results suggest sibling dynamics shape both family values and long-term demographic behavior.  
+This paper examines the effect of sibling sex composition on marriage outcomes in the United
+States using a, newly-constructed dataset from Texas covering individuals born between 1976-
+1997. Leveraging both singleton and twin analyses, we find robust evidence that having a same-sex
+sibling significantly increases the likelihood of marriage and accelerates marriage timing. We also
+reveal substantial heterogeneity across racial groups with White individuals consistently showing
+strong effects. Furthermore, we document that sibling sex effects on marriage is predominantly
+present in wealthier counties. Our results highlight the importance of considering both racial
+background and socioeconomic context when studying family formation patterns.
 </details>
 
 ---
@@ -48,12 +72,11 @@ Using U.S. census-linked administrative records, we examine how sibling composit
 ## Work in Progress
 
 ### **Peer and Role Model Effects in Academic Competitions**  
-A project exploring whether exposure to high-achieving peers in competitive academic settings alters students’ future aspirations and performance.
+
 
 ---
 
 ### **Family Formation and Crime**  
 <small>*with Zhangping Cai*</small>  
-We study how early-life exposure to crime affects long-term family structure and fertility decisions.
 
 ---

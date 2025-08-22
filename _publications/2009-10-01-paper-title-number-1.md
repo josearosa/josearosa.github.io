@@ -47,7 +47,7 @@ This paper investigates the impact of exposure to violent crime on voter turnout
 ---
 
 ### **Heterogeneous Effects of Sibling Composition on Family Formation (Submitted)**  
-<small>*with Raymond Kim and [Eujean Byun](https://www.eujeanbyun.com/)*</small>  
+<small>*with [Raymond Kim](https://sites.google.com/view/raymondskim/home) and [Eujean Byun](https://www.eujeanbyun.com/)*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
 Same-sex sibling effects significantly increase marriage rates and timing for men in the U.S, with strong heterogeniety across race and sex.  

@@ -64,17 +64,7 @@ author_profile: true
 > “I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”  
 > — *Marketing and Consumer Behavior, Fall 2020*
 
----
 
-## Average Evaluation Scores (Recent Courses)
-
-- *Econometrics (Spring 2025):* 4.68 / 5  
-- *Introduction to Economics (Fall 2024):* 4.43 / 5  
-- *Intermediate Microeconomic Theory (Summer 2024, Online):* 4.36 / 5  
-- **All-time average:** 4.49 / 5  
-- **All-time average (Online courses only):** 4.55 / 5
-
----
 
 ## Teaching Philosophy
 

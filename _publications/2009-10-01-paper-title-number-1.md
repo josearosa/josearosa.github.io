@@ -36,11 +36,12 @@ evaluating targeted programs, which often focus only on direct impacts.
 ### **Bullets to Ballots**  
 <small>*with <a href="https://economics.ucmerced.edu/content/zhangping-cai" target="_blank" rel="noopener noreferrer">Zhangping Cai</a>*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
-
+Understanding the relationship between violent criminal activity and voter participation.  
+</div>
 
 ---
 
-### **Heterogeneous Effects of Sibling Composition on Family Formation (Under Review)**  
+### **Heterogeneous Effects of Sibling Composition on Family Formation**  
 <small>*with <a href="https://sites.google.com/view/raymondskim/home" target="_blank" rel="noopener noreferrer">Raymond Kim</a> and <a href="https://www.eujeanbyun.com/" target="_blank" rel="noopener noreferrer">Eujean Byun</a>*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 

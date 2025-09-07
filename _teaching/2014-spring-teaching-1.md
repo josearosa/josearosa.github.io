@@ -10,7 +10,7 @@ author_profile: true
 ## Instructor of Record
 
 **Labor Economics**  
-*Fall 2025 (Scheduled)*  
+*Fall 2025*  
 > Upper-division course on labor market dynamics, wage setting, and human capital theory.
 
 **Intermediate Microeconomic Theory**  

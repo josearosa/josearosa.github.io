@@ -9,8 +9,7 @@ author_profile: true
 
 ## Instructor of Record
 
-**Labor Economics**  [Syllabus (PDF)]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}
-*Fall 2025*  
+**Labor Economics** *Fall 2025*  [Syllabus (PDF)]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}
 > Upper-division course on labor market dynamics, wage setting, and human capital theory.
 
 **Intermediate Microeconomic Theory**  

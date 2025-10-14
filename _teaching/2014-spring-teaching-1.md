@@ -9,7 +9,7 @@ author_profile: true
 
 ## Instructor of Record
 
-**Labor Economics**  
+**Labor Economics**  [Syllabus (PDF)]({{ base_path }}/files/Syllabus.pdf){: .btn .btn--inverse .btn--small}  
 *Fall 2025*  
 > Upper-division course on labor market dynamics, wage setting, and human capital theory.
 

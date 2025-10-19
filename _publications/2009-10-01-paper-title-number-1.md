@@ -39,6 +39,11 @@ evaluating targeted programs, which often focus only on direct impacts.
 Understanding the relationship between violent criminal activity and voter participation.  
 </div>
 
+<details>
+<summary><strong>Abstract</strong></summary>
+This paper estimates how exposure to nearby criminal activity affects electoral participation using administrative, geocoded data from Texas linked to the 2016 general election. Leveraging the quasi-random timing of incidents relative to Election Day, we combine a regression discontinuity in time (RDiT) with difference-in-differences analysis that compares voters living close to murders occurring just before the election to observationally similar neighbors exposed just after. We find that pre-election exposure to murders decreases turnout. Demobilization is concentrated among younger voters, unaffiliated/non-partisan registrants, and for incidents that occur during daytime hours, consistent with salience and risk-perception channels that raise the perceived costs of voting. Effects are most pronounced for individuals residing nearest to the incident location and attenuate with distance from the murder and time from the election
+</details>
+
 ---
 
 ### **Heterogeneous Effects of Sibling Composition on Family Formation**  [Latest Draft]({{ '/files/Sibling_Marriage.pdf' | relative_url }})

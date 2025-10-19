@@ -41,9 +41,9 @@ Understanding the relationship between violent criminal activity and voter parti
 
 ---
 
-### **Heterogeneous Effects of Sibling Composition on Family Formation**  
+### **Heterogeneous Effects of Sibling Composition on Family Formation**  [Latest Draft]({{ '/files/Sibling_Marriage.pdf' | relative_url }})
 <small>*with <a href="https://sites.google.com/view/raymondskim/home" target="_blank" rel="noopener noreferrer">Raymond Kim</a> and <a href="https://www.eujeanbyun.com/" target="_blank" rel="noopener noreferrer">Eujean Byun</a>*</small>  
-<div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">  [Latest Draft]({{ '/files/Sibling_Marriage.pdf' | relative_url }})
+<div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">  
 
 
 Same-sex sibling effects significantly increase marriage rates and timing for men in the U.S, with strong heterogeniety across race and sex.  

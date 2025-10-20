@@ -9,7 +9,7 @@ author_profile: true
 
 ## Instructor of Record
 
-**Advanced Econometrics** *Spring 2026 (Scheduled)
+**Advanced Econometrics** *Spring 2026 (Scheduled)*
 > Upper-division course that focuses on empirical methods beyond the standard econometrics course.
 
 **Labor Economics** *Fall 2025*  [Syllabus]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}

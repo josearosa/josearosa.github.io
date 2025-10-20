@@ -15,8 +15,7 @@ author_profile: true
 **Labor Economics** *Fall 2025*  [Syllabus]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}
 > Course on labor market dynamics, wage setting, and human capital theory.
 
-**Intermediate Microeconomic Theory**  
-*Summer 2024 (Online)*  
+**Intermediate Microeconomic Theory**  *Summer 2024 (Online)*  
 > Course on analysis of consumer and producer optimization, market equilibrium and welfare, with applications to competition, monopoly, and basic game theory.
 
 ---

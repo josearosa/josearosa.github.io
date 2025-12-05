@@ -19,16 +19,7 @@ Reduced special education access for one child reveals overlooked sibling benefi
 
 <details>
 <summary><strong>Abstract</strong></summary>
-Over 13% of U.S. children receive special education (SpEd) services, which often involve substantial
-changes in educational investments for the identified child. However, little is known about how
-these services affect other children in the household. We study sibling spillovers using a 2005 Texas
-policy that capped district-level SpEd enrollment at 8.5%, resulting in abrupt declines in access.
-Leveraging linked birth and education records, we examine how reduced SpEd access for one child
-affects their siblings. We find that having a sibling more likely to lose SpEd leads to improvements
-in the non-disabled sibling’s long-run outcomes. These spillovers are unlikely to stem from direct
-sibling interactions and instead appear to reflect changes in parental investments. The magnitudes
-of these effects are substantial and highlight the importance of accounting for family spillovers in
-evaluating targeted programs, which often focus only on direct impacts.
+Over 13% of U.S. children receive special education (SpEd) services, yet little is known about their impact on siblings. We study sibling spillovers using a 2005 Texas policy that capped district-level SpEd enrollment at 8.5%, leading to sharp declines in access. Linking birth and education records, we find that when one child is more likely to lose SpEd services, their general education sibling experiences improved long-run outcomes. Although these effects likely reflect a combination of changes in parental investment and direct sibling interactions, the evidence more strongly supports parental resource reallocation than direct sibling spillovers. Our results imply that evaluations of targeted education programs like SpEd should account for family spillovers and not just the treated child outcomes.
 </details>
 
 ---

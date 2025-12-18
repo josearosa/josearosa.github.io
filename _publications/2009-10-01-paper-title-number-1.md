@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-### **Sibling Spillovers and Special Education Access- JOB Market Paper**  [Latest Draft]({{ '/files/Special_Education_Spillovers.pdf' | relative_url }})
+### **Sibling Spillovers and Special Education Access- Job Market Paper**  [Latest Draft]({{ '/files/Special_Education_Spillovers.pdf' | relative_url }})
 <small>*with <a href="https://brianaballis.weebly.com/" target="_blank" rel="noopener noreferrer">Briana Ballis</a> and <a href="https://economics.ucmerced.edu/content/emily-dieckmann" target="_blank" rel="noopener noreferrer">Emily Dieckmann</a>*</small>  
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 

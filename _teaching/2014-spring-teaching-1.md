@@ -54,7 +54,7 @@ author_profile: true
 ## Student Feedback Highlights
 
 > "I enjoyed the material and what was asked of me in class. It felt like a culmination of all the courses I had previously taken. The instructor was extremely vital in the learning process helping the class understand with examples, graphs, and real life project examples."
-> -*Labor Economics, Fall 2025*
+> — *Labor Economics, Fall 2025*
 
 > “Jose is well respected amongst the students — he earned that through his passion for helping us with our academic needs. He efficiently summarized difficult material and provided helpful problem-solving tips. He was flexible with scheduling, prioritized student feedback, and made adjustments based on it. I truly believe he would be an impactful instructor on campus if he ever becomes a professor.”  
 > — *Econometrics, Spring 2025*

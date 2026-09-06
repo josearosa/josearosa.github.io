@@ -7,54 +7,72 @@ author_profile: true
 
 {% include base_path %}
 
+## Teaching Philosophy
+
+I value being able to demystify both academic and professional pathways for students. My approach to teaching is to make difficult material accessible without making it less rigorous, using relevant examples and real-world applications to help students understand not only how to solve a problem, but also how the tools they are learning are used to inform real decisions and policies.
+
+I also view mentorship as an important part of teaching, especially for students who may have less access to academic or professional guidance outside the classroom. My goals are to remain accessible for any help students need in navigating graduate school, career choices, and professional opportunities. Since joining PwC, this has also included helping students better understand careers in economic consulting and professional services and what those paths actually look like in practice.
+
+
+---
+
 ## Instructor of Record
 
-**Advanced Econometrics** *Spring 2026* [Syllabus]({{ base_path }}/files/SYLLABUS_Econ_171_Spring_2026.pdf){: style="color:#1a56db;"}
-> Upper-division course that focuses on empirical methods beyond the standard econometrics course.
+### **Advanced Econometrics**  
+*Spring 2026* — [Syllabus]({{ base_path }}/files/SYLLABUS_Econ_171_Spring_2026.pdf){: style="color:#1a56db;"}
 
-**Labor Economics** *Fall 2025*  [Syllabus]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}
-> Course on labor market dynamics, wage setting, and human capital theory.
+> Upper-division econometrics course covering empirical methods beyond the standard introductory econometrics sequence, with an emphasis on applied analysis and interpretation.
 
-**Intermediate Microeconomic Theory**  *Summer 2024 (Online)*  
-> Course on analysis of consumer and producer optimization, market equilibrium and welfare, with applications to competition, monopoly, and basic game theory.
+### **Labor Economics**  
+*Fall 2025* — [Syllabus]({{ base_path }}/files/Syllabus.pdf){: style="color:#1a56db;"}
+
+> Upper-division course examining labor supply and demand, wage determination, human capital, inequality, and other topics in modern labor economics.
+
+### **Intermediate Microeconomic Theory**  
+*Summer 2024 (Online)*
+
+> Intermediate course in consumer and producer optimization, market equilibrium, welfare analysis, market structure, and introductory game theory.
 
 ---
 
 ## Guest Lectures
 
-**Economics of Immigration**  
+### **Economics of Immigration**  
 *Fall 2024*
 
-**Econometrics**  
+### **Econometrics**  
 *Spring 2024*
 
 ---
 
 ## Teaching Assistant Experience
 
-**Econometrics**  
-*Fall 2022, Fall 2023, Spring 2021–2025 (Online and In-Person)*
+### **Econometrics**  
+*Fall 2022, Fall 2023, Spring 2021–2025 — Online and In-Person*
 
-**Intermediate Macroeconomic Theory**  
+### **Intermediate Macroeconomic Theory**  
 *Fall 2021*
 
-**Marketing and Consumer Behavior**  
-*Fall 2020 (Online)*
+### **Marketing and Consumer Behavior**  
+*Fall 2020 — Online*
 
-**Responsibilities:**  
-- Led weekly discussion sections (in-person and via Zoom)  
-- Held regular and by-appointment office hours  
-- Graded exams, assignments, and research papers  
-- Managed course content and announcements via Canvas LMS  
-- Proctored exams and led review sessions  
-- Provided one-on-one academic support
+**Selected responsibilities:**
+
+- Led weekly discussion sections in both in-person and online formats
+- Held regular and by-appointment office hours
+- Led exam review and problem-solving sessions
+- Graded exams, assignments, and research papers
+- Provided individualized academic support
+- Managed course materials and communication through Canvas LMS
 
 ---
 
 ## Student Feedback Highlights
 
-> “I enjoyed the material and what was asked of me in class. It felt like a culmination of all the courses I had previously taken. The instructor
-was extremely vital in the learning process helping the class understand with examples, graphs, and real life project examples.”  
+> “I'd actually say this class felt pretty ideal to me. Informative and relevant lectures and comprehensive practice tests. As long as you put in the effort, there were no issues.”  
+> — *Advanced Econometrics, Spring 2026
+
+> “I enjoyed the material and what was asked of me in class. It felt like a culmination of all the courses I had previously taken. The instructor was extremely vital in the learning process helping the class understand with examples, graphs, and real life project examples.”  
 > — *Labor Economics, Fall 2025*
 
 > “Jose is well respected amongst the students — he earned that through his passion for helping us with our academic needs. He efficiently summarized difficult material and provided helpful problem-solving tips. He was flexible with scheduling, prioritized student feedback, and made adjustments based on it. I truly believe he would be an impactful instructor on campus if he ever becomes a professor.”  
@@ -68,9 +86,3 @@ was extremely vital in the learning process helping the class understand with ex
 
 > “I liked how Jose tied real-world examples into abstract economic concepts. He made class more engaging.”  
 > — *Marketing and Consumer Behavior, Fall 2020*
-
-
-
-## Teaching Philosophy
-
-I strive to create an intellectually rigorous classroom environment that centers applied problem-solving, critical thinking, and peer collaboration. As a first-generation college student, I am especially committed to fostering equity in learning by demystifying complex topics, using real-world datasets, and supporting students through clear communication and high standards.

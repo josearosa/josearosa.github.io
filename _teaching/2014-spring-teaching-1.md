@@ -11,7 +11,7 @@ author_profile: true
 
 I value being able to demystify both academic and professional pathways for students. My approach to teaching is to make difficult material accessible without making it less rigorous, using relevant examples and real-world applications to help students understand not only how to solve a problem, but also how the tools they are learning are used to inform real decisions and policies.
 
-I also view mentorship as an important part of teaching, especially for students who may have less access to academic or professional guidance outside the classroom. My goals are to remain accessible for any help students need in navigating graduate school, career choices, and professional opportunities. Since joining PwC, this has also included helping students better understand careers in economic consulting and professional services and what those paths actually look like in practice.
+I also view mentorship as an important part of teaching, especially for students who may have less access to academic or professional guidance outside the classroom. My goals are to remain accessible for any help students need in navigating life in higher education, career choices, and professional opportunities. Since joining PwC, this has also included helping students better understand careers in economic consulting and professional services and what those paths actually look like in practice.
 
 
 ---

@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the University of California, Merced.
+I am a Senior Associate at PwC. I received my Ph.D. in Economics from the University of California, Merced.
 
-My primary research interests are in Labor and Public Economics, with a focus on the Economics of the Family, the Economics of Education, and the Economics of Crime.
+My professional interests span applied economics, teaching, and research. At PwC, I work in transfer pricing, applying economic and financial analysis to questions involving multinational firms and cross-border transactions.
 
-I work with restricted-use administrative data that link individual-level records across education, birth certificates, crime incidents, and voter files. These longitudinal, geocoded datasets allow me to track individuals and families over time to answer questions related to education, residential mobility, civic participation, and intra-household decision-making.
+I have taught courses in Econometrics and Labor Economics, with broader teaching interests in applied microeconomics, public economics, and corporate finance.
 
-I will be entering the 2025–2026 academic job market.
+My research interests are in Labor and Public Economics, with a particular focus on the Economics of Education, the Economics of the Family, and the Economics of Crime.
+

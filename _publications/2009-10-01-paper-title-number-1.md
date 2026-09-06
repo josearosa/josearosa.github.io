@@ -15,7 +15,7 @@ author_profile: true
 
 <div style="border: 2px solid #1e90ff; padding: 15px; border-radius: 8px; background-color: #f0f8ff; font-family: Georgia, serif; font-size: 1.1em; color: #003366;">
 
-Same-sex sibling composition increases marriage likelihood and accelerates marriage timing, with substantial heterogeneity across race and socioeconomic context.
+Sibling sex composition shapes marriage outcomes in the United States, with substantial heterogeneity across racial and socioeconomic groups.
 
 </div>
 

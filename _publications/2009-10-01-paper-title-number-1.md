@@ -7,15 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
-
-{% include base_path %}
-
 ## Publications & Forthcoming
 
 ### **Sibling Sex Composition, Race, and Marriage in the United States**  [Latest Draft]({{ '/files/Sibling_Marriage.pdf' | relative_url }})  
@@ -79,7 +70,7 @@ This paper estimates how exposure to nearby criminal activity affects electoral 
 ## Work in Progress
 
 ### **Where Boys and Girls Diverge: Comparative Advantage Across Ten Academic Domains**  
-<small>*with Letitia Wangoya, <a href="https://sites.google.com/view/raymondskim/home" target="_blank" rel="noopener noreferrer">Raymond Kim</a>, and Kris Gulati*</small>  
+<small>*with <a href="https://sites.google.com/view/kris-gulati/home" target="_blank" rel="noopener noreferrer">Kris Gulati</a>, <a href="https://sites.google.com/view/raymondskim/home" target="_blank" rel="noopener noreferrer">Raymond Kim</a>, and <a href="https://economics.ucmerced.edu/content/letitia-wangoya" target="_blank" rel="noopener noreferrer">Letitia Wangoya</a>*</small>  
 
 ---
 

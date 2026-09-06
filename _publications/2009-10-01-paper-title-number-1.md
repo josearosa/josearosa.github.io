@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications & Forthcoming
 
-### **Sibling Sex Composition, Race, and Marriage in the United States**  [Latest Draft]({{ '/files/Sibling_Marriage.pdf' | relative_url }})  
+### **Sibling Sex Composition, Race, and Marriage in the United States** 
 <small><em>Accepted at <i>Economics Letters</i></em></small>  
 <small>*with <a href="https://sites.google.com/view/raymondskim/home" target="_blank" rel="noopener noreferrer">Raymond Kim</a>*</small>  
 

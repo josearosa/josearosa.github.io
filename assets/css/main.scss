@@ -41,4 +41,67 @@
     "vendor/font-awesome/brands"
 ;
 ;
+/* ==========================================================================
+   Responsive layout fix
+   Stack sidebar above content on narrower windows
+   ========================================================================== */
 
+@media screen and (max-width: 1200px) {
+
+  .sidebar {
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    height: auto !important;
+    overflow: visible !important;
+
+    margin: 0 0 2rem 0 !important;
+    padding-top: 1rem !important;
+  }
+
+  .page,
+  .archive {
+    position: relative !important;
+    float: none !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .author__avatar {
+    display: inline-block !important;
+    width: auto !important;
+    vertical-align: top;
+  }
+
+  .author__avatar img {
+    width: 150px !important;
+    max-width: 150px !important;
+    height: auto !important;
+  }
+
+  .author__content {
+    display: inline-block !important;
+
+    width: auto !important;
+    max-width: calc(100% - 180px) !important;
+
+    padding-left: 20px !important;
+    vertical-align: top;
+  }
+
+  .author__urls-wrapper {
+    display: block !important;
+    width: 100% !important;
+    margin-top: 1rem;
+  }
+}

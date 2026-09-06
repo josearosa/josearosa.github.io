@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Associate at PwC. I received my Ph.D. in Economics from the University of California, Merced.
+I am a Senior Associate at PricewaterhouseCoopers (PwC). I received my Ph.D. in Economics from the University of California, Merced.
 
 My professional interests span applied economics, teaching, and research. At PwC, I work in transfer pricing, applying economic and financial analysis to questions involving multinational firms and cross-border transactions.
 

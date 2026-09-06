@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications & Forthcoming
+## Publications
 
 ### **Sibling Sex Composition, Race, and Marriage in the United States** 
 <small><em>Accepted at <i>Economics Letters</i></em></small>  
